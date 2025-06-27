@@ -30,6 +30,7 @@ Use Map filters to present data according to the Continent to the Regional Manag
 - Used conditional column for Age Group creation and Gender Type.
 - Merged 3 years csv files into one single Sales Final table.
 - Changed type of some data columns and also rounded the values etc.
+- Created Measure Table and used some DAX formula like SUMX and DIVIDE to Total Order count etc.
 
 ## Sample Dashboards
 
